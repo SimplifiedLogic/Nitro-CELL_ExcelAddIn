@@ -23,8 +23,17 @@ Excel 2013 or Later.
 
 Simply download the Excel Add-In and Add to your Excel Add-Ins Folder:
 
-C:\Users\<userName>\AppData\Roaming\Microsoft\AddIns
+1. Download the Excel Add-In
+2. (Close/Exit Excel)
+3. Move the Add-In into the Excel Add-Ins Directory --> C:\Users\<userName>\AppData\Roaming\Microsoft\AddIns
+4. Start Excel
+5. Open Excel "Options"  (File -> Options)
+6. Select "Add-ins"
+7. Locate the "Manage: Excel Add-ins" and press the "Go..." Button
+8. Locate the "Nitro-Cell_Executesheetselecthelp" option and Select it
+9. Press OK.
 
+After the above steps are completed you should see validation inputs next to Nitro-CELL commands and arguments when you select the cells in a Nitro-CELL Execution Workbook.
 
 # Contribute!
 ----
