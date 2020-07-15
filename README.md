@@ -16,7 +16,7 @@ As a result the overall usability of Nitro-CELL increases due to better visibili
 ### Minimum Requirements
 ----
 
-Excel 2013 or Later.
+Excel 2013 or Later.  Nitro-CELL 10.0 or later!
 
 ### Installation
 ----
