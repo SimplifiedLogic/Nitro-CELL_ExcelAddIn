@@ -23,7 +23,7 @@ Excel 2013 or Later.
 
 Simply download the Excel Add-In and Add to your Excel Add-Ins Folder:
 
-1. Download the Excel Add-In  ![Nitro-CELL_ExecuteSheetSelectHelp.xlam](Nitro-CELL_ExecuteSheetSelectHelp.xlam)
+1. Download the Excel Add-In  --> [Nitro-CELL_ExecuteSheetSelectHelp.xlam](Nitro-CELL_ExecuteSheetSelectHelp.xlam) <--
 2. (Close/Exit Excel)
 3. Move the Add-In into the Excel Add-Ins Directory --> C:\Users\<userName>\AppData\Roaming\Microsoft\AddIns
 4. Start Excel
